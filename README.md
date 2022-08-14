@@ -1,3 +1,29 @@
+## Features
+
+- Builded with React
+- One page layout 
+- Responsive
+- Next.js 
+- Tailwind CSS
+- Firebase/Storage
+- Facebook Login Provider
+
+
+
+![1](https://user-images.githubusercontent.com/32294454/184535341-4c73d786-ec2c-4a93-9e17-1a1061299e1f.png)
+
+![2](https://user-images.githubusercontent.com/32294454/184535343-5793489f-22a6-4bc9-996d-db400604e3c7.png)
+
+![3](https://user-images.githubusercontent.com/32294454/184535347-3c58906d-5a3d-475d-87a8-c972445aba79.png)
+
+![4](https://user-images.githubusercontent.com/32294454/184535349-c49c0e98-e822-438e-9a2d-f059adbf8961.png)
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
